@@ -11,4 +11,7 @@ The reason why I'm sharing the cheat instead is due to the .pchtxt version issue
 
 Watch [this video](https://youtu.be/_4rdgzYUybg?si=039vcPGRvEBWDiw2https://youtu.be/_4rdgzYUybg?si=039vcPGRvEBWDiw2)
 
+> [!NOTE]
+REMEMBER TO READ THE VIDEO DESCRIPTION  for the full details.
+
 It might help you fix the issues.
