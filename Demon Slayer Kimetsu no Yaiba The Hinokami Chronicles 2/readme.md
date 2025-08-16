@@ -6,3 +6,9 @@ You can see a **gameplay test [here](https://youtu.be/T1AhhGsoH70?si=9ZAUUJDJdmO
 **THIS IS NOT AN EXEFS MOD (.pchtxt)** it's a cheat (.txt)
 
 The reason why I'm sharing the cheat instead is due to the .pchtxt version issues are worse than the cheat (all movement is speedup)
+
+## Why my game is crashing
+
+Watch [this video](https://youtu.be/_4rdgzYUybg?si=039vcPGRvEBWDiw2https://youtu.be/_4rdgzYUybg?si=039vcPGRvEBWDiw2)
+
+It might help you fix the issues.
