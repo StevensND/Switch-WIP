@@ -1,23 +1,11 @@
 > [!NOTE]
-This mod is WIP (Work In Progress). This mean that issues like jump speedup exists and are not fixed yet.
+12/08/2025 UPDATE: ADDED INFO ABOUT HOW TO UPDATE THE CHEAT
 
-You can see a **gameplay test [here](https://youtu.be/T1AhhGsoH70?si=9ZAUUJDJdmON49CM)**
+This is not the only game that I'm doing mods ... and also I'm focus on other games.
 
-> [!WARNING]
-Read all the info from the post. You can know how to update the cheat below (only for real hardware users)
+You can do it yourself if you have a Switch (Real Hardware) with CFW.
 
-**THIS IS NOT AN EXEFS MOD (.pchtxt)** it's a cheat (.txt)
-
-The reason why I'm sharing the cheat instead is due to the .pchtxt version issues are worse than the cheat (all movement is speedup)
-
-## Why my game is crashing
-
-Watch [this video](https://youtu.be/_4rdgzYUybg?si=039vcPGRvEBWDiw2https://youtu.be/_4rdgzYUybg?si=039vcPGRvEBWDiw2)
-
-> [!NOTE]
-REMEMBER TO READ THE VIDEO DESCRIPTION  for the full details.
-
-It might help you fix the issues.
+Follow the steps below.
 
 ## How to update the cheat (ONLY FOR REAL HARDWARE USERS WITH CFW)
 
